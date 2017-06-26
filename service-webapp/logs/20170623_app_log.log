@@ -1,0 +1,9 @@
+[INFO ] 2017-06-23 14:21:08.001 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 14:21:08.480 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 55197 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 14:21:08.481 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 14:21:12.467 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.354 seconds (JVM running for 5.213)
+[INFO ] 2017-06-23 14:21:38.554 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-06-23 14:21:38.554 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
